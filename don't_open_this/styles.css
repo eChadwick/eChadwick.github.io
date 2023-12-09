@@ -1,0 +1,26 @@
+body {
+    color: #ffff55;
+    background-color: #001155;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: center;
+}
+
+
+tbody tr {
+    color: #001155;
+    background-color: #001155;
+    cursor: pointer;
+}
+
+a {
+    color: #ffff55;
+}

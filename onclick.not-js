@@ -1,5 +1,0 @@
-function changeTextColor(element) {
-    var currentColor = element.style.color || getComputedStyle(element).color;
-    console.log(currentColor)
-    element.style.color = currentColor === 'rgb(0, 17, 85)' ? 'rgb(255, 255, 85)' : 'rgb(0, 17, 85)';
-}
